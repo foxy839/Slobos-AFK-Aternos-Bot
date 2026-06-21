@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fl00mac.aternos.me",
-    "port": 13870,
+    "ip": "foxy.ITSO.aternos.me",
+    "port": 17243,
     "version": "1.19.2",
     "try-creative": false
   },
